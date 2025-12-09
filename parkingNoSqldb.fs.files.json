@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "693830871b5c3d1433002a0f"
+  },
+  "chunkSize": 261120,
+  "filename": "NSF-5673_img_69383086debbc1.14493134.jpg",
+  "metadata": {
+    "plate": "NSF-5673"
+  },
+  "length": 415922,
+  "uploadDate": {
+    "$date": "2025-12-09T14:21:59.309Z"
+  },
+  "md5": "f4312433adf44d6ab4d77078e3332148"
+},
+{
+  "_id": {
+    "$oid": "693835b61b5c3d1433002a13"
+  },
+  "chunkSize": 261120,
+  "filename": "MNU-8207_img_693835b6932587.94721275.jpg",
+  "metadata": {
+    "plate": "MNU-8207"
+  },
+  "length": 458836,
+  "uploadDate": {
+    "$date": "2025-12-09T14:44:06.627Z"
+  },
+  "md5": "d9b783e7574264bea9597e9471f9f7f1"
+},
+{
+  "_id": {
+    "$oid": "693836171b5c3d1433002a17"
+  },
+  "chunkSize": 261120,
+  "filename": "EQU-7632_img_6938361782dd36.49658973.jpg",
+  "metadata": {
+    "plate": "EQU-7632"
+  },
+  "length": 417735,
+  "uploadDate": {
+    "$date": "2025-12-09T14:45:43.560Z"
+  },
+  "md5": "b0fde8295fb9683d1fe8762a8c16df04"
+},
+{
+  "_id": {
+    "$oid": "693836511b5c3d1433002a1b"
+  },
+  "chunkSize": 261120,
+  "filename": "NXL-3681_img_693836514ff9e3.99950228.jpg",
+  "metadata": {
+    "plate": "NXL-3681"
+  },
+  "length": 429291,
+  "uploadDate": {
+    "$date": "2025-12-09T14:46:41.351Z"
+  },
+  "md5": "fcadfeb1d0501100639282cac2b0df56"
+}]
